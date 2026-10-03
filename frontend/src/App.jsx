@@ -118,17 +118,15 @@ function App() {
         </div>
 
         {expenses.map((expense) => (
-  <div className="table-row" key={expense.id}>
-    <span>{expense.description}</span>
-    <span>{expense.category}</span>
-    <span>{expense.date}</span>
-    <span>₹{expense.amount}</span>
+          <div className="table-row" key={expense.id}>
+            <span>{expense.description}</span>
+            <span>{expense.category}</span>
+            <span>{expense.date}</span>
+            <span>₹{expense.amount}</span>
 
-    <button onClick={() => handleDelete(expense.id)}>
-      Delete
-    </button>
-  </div>
-))}
+            <button onClick={() => handleDelete(expense.id)}>Delete</button>
+          </div>
+        ))}
       </div>
     </div>
   );

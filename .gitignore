@@ -22,3 +22,13 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+
+# Java / Maven
+backend/target/
+backend/.classpath
+backend/.project
+backend/.settings/
+
+# Local environment files
+.env
