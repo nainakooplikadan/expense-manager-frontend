@@ -1,6 +1,5 @@
-# 💰 Naina's Expense Manager
-
-A full-stack expense management application built using **React, Java, Spring Boot, and MySQL**. The application allows users to add, view, and delete expenses while tracking their total spending.
+# 💰 ExpenseTrack
+A full-stack expense tracking application built using **React, Java, Spring Boot, and MySQL**. The application allows users to add, view, and delete expenses while tracking their total spending.
 
 ## 🚀 Features
 
@@ -214,7 +213,9 @@ JWT-based authentication is a planned enhancement.
 
 ## 📸 Screenshots
 
-Screenshots of the dashboard, expense list, and API testing can be added here as the project UI is finalized.
+### ExpenseTrack Dashboard
+
+![ExpenseTrack Dashboard](screenshots/dashboard.png)
 
 ## 🔮 Future Enhancements
 

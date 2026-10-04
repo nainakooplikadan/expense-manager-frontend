@@ -75,7 +75,7 @@ function App() {
   };
   return (
     <div className="app">
-      <h1>Naina's Expense Manager</h1>
+      <h1>ExpenseTrack</h1>
 
       <h2 className="total-expense">Total Expenses: ₹{total}</h2>
 
