@@ -217,6 +217,10 @@ JWT-based authentication is a planned enhancement.
 
 ![ExpenseTrack Dashboard](screenshots/dashboard.png)
 
+### Postman API Response
+
+![Postman API Response](screenshots/postman_img.png)
+
 ## 🔮 Future Enhancements
 
 * Login and JWT authentication
